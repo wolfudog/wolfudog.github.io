@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:wolfudog.github.io
+url:
 baseurl:
 
 redcarpet:
