@@ -2,8 +2,8 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:http://wolfudog.github.io/
+url:wolfudog.github.io
+baseurl:
 
 redcarpet:
   extensions: [strikethrough, tables]
